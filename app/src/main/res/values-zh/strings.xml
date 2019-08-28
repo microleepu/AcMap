@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AcMap</string>
+    <string name="action_geolocate">選地點</string>
+    <string name="default_info_snipper">找不到地點,因為存取位置權限未開啟</string>
+    <string name="default_info_title">預設位置</string>
+    <string name="title_activity_maps">地圖</string>
+</resources>
